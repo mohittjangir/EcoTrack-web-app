@@ -107,6 +107,9 @@ export default function EcoTrackDashboard() {
           ))}
         </div>
       </div>
+      <div className="w-full text-right mt-10">
+        <a className="text-gray underline hover:text-blue-700" href="https://www.linkedin.com/in/mohit-jangir-064264250/" target="_blank">By Mohit Jangir</a>
+      </div>
     </div>
   );
 }
